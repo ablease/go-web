@@ -13,6 +13,12 @@ cd go-web
 
 ```
 
+Add your own pages! Simply create a .txt file and add some text in there.
+
+fire up the go server with
+
+./wiki  
+
 ###Goals
 
 Learn to write simple Go programs, and serve web pages
